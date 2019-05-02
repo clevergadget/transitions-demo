@@ -5,6 +5,12 @@
     grid-template: 1fr 1fr / 1fr 1fr;
     background-color: black;
 }
+
+.app2 {
+    width:100vw;
+    height:100vh;
+    background-color:black;
+}
 .container-1 {
     display: flex;
     align-items: center;
